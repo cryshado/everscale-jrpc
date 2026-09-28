@@ -3,4 +3,4 @@ resolver = "2"
 members = ["client", "models", "node", "server"]
 
 [patch."https://github.com/broxus/ton-indexer.git"]
-ton-indexer = { git = "https://github.com/cryshado/ton-indexer.git", rev = "98d8016eb6f6afc6e2e25c222de3be16543c12ea" }
+ton-indexer = { git = "https://github.com/broxus/ton-indexer.git", rev = "2def070ef1fb167372422fe8c9cffec529be0d2a" }
