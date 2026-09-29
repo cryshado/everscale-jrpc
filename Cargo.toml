@@ -1,6 +1,3 @@
 [workspace]
 resolver = "2"
 members = ["client", "models", "node", "server"]
-
-[patch."https://github.com/broxus/ton-indexer.git"]
-ton-indexer = { git = "https://github.com/broxus/ton-indexer.git", rev = "2def070ef1fb167372422fe8c9cffec529be0d2a" }
